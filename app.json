@@ -10,7 +10,7 @@
  
   ],
   "logo": "https://telegra.ph/file/e8a39b06fabbfac6bce8f.jpg",
-  "repository": "https://github.com/hbbots/YOUTUBE-BOT",
+  "repository": "https://github.com/izaz97778/YOUTUBE-BOT",
   "env": {
     "WEBHOOK": {
       "description": "LEAVE IT",
